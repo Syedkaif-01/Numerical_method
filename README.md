@@ -1,0 +1,2 @@
+#Numerical Methods
+This repository contains C implementations of fundamental numerical methods for solving equations, including the bisection method, Newton-Raphson method, regular falsi method, and secant method. These algorithms are essential tools in computational mathematics, aiding in the approximation of roots of equations with varying levels of efficiency and accuracy. Each method is meticulously coded and documented, serving as a valuable resource for understanding and applying numerical techniques in computational science and engineering projects.
